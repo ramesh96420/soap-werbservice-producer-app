@@ -1,0 +1,10 @@
+wsdl file endpoint url: http://localhost:8080/ws/loanEligibility.wsdl
+
+
+https://www.youtube.com/watch?v=ceSqN3CWd14&list=RDCMUCORuRdpN2QTCKnsuEaeK-kQ&index=14
+
+this application is provided to spring-boot-soap-ws-client
+
+Note:
+provider application: wsdl-to-java-loan-api
+consumer application: spring-boot-soap-ws-client
